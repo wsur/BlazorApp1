@@ -4,7 +4,7 @@
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ViewDialogWidth>650</WebStackScaffolding_ViewDialogWidth>
-    <NameOfLastUsedPublishProfile>C:\Users\jakej\OneDrive\Documents\С#_programs\BlazorApp1\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\jakej\OneDrive\Documents\С#_programs\BlazorApp1\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
     <ActiveDebugProfile>BlazorApp1</ActiveDebugProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

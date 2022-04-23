@@ -1,5 +1,18 @@
 ﻿<h3>Auth</h3>
 
-@code {
+<p role="status">Current try: @currenttry</p>
+<!--пытались сделать скрипт на python-->
+<button class="btn btn-primary" @onclick="vizov">Вызов файлового менеджера</button>
 
+@using BlazorApp1.Data
+@code {
+    private int currenttry = 0;
+    private void vizov()
+    {
+        currenttry++;
+        File_manager file = new File_manager();
+    }
+
+}
+<Upload_images/>
 }

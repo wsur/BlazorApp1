@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/pdAicpSekGU9jwXaKnY/gAAAAACAAAAAAAQZgAAAAEAACAAAADwPA6HOvzoIfOFsUBWO5DaSTZFPd89XeeZWp3Nih5a4gAAAAAOgAAAAAIAACAAAABQuva94mmCWtK0ni8hMBRBq2ZMMXk7KaYsEOP7U5lo3TAAAAB0Kwl/gd2uTAvxIWANIr8tu8Orr2O/XBHr+cDB3AR3ngiv5rv1Wr0qFkWyDXsx9GRAAAAAHb9w+Thznggm6EKvxh2cu6LTw0Bn/lG1obOdN1NOP8H0BpBuTDqZ17yX8fgn7flBAF1s163guVEjMUuMMvGyKQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://37.140.192.136/</_PublishTargetUrl>
+    <History>True|2022-04-23T13:47:12.8607739Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="BlazorApp1.deps.json">
+      <publishTime>04/23/2022 18:46:35</publishTime>
+    </File>
+    <File Include="BlazorApp1.dll">
+      <publishTime>04/23/2022 18:46:34</publishTime>
+    </File>
+    <File Include="BlazorApp1.exe">
+      <publishTime>04/23/2022 18:46:34</publishTime>
+    </File>
+    <File Include="BlazorApp1.pdb">
+      <publishTime>04/23/2022 18:46:34</publishTime>
+    </File>
+    <File Include="BlazorApp1.runtimeconfig.json">
+      <publishTime>04/23/2022 18:46:35</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/23/2022 18:46:38</publishTime>
+    </File>
+    <File Include="wwwroot/BlazorApp1.styles.css">
+      <publishTime>04/23/2022 14:06:03</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css.map">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/FONT-LICENSE">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.eot">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.otf">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.svg">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.ttf">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.woff">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/ICON-LICENSE">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/README.md">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/23/2022 17:27:19</publishTime>
+    </File>
+    <File Include="wwwroot/css/style.css">
+      <publishTime>04/23/2022 17:29:03</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>04/22/2022 22:14:47</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
